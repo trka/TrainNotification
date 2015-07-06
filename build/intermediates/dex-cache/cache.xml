@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-da90873df2a92f940cca7233f637fd26c2ee2704.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-20b7c5bee172fe2871069abe1acd87fbe6d797d7.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-529b3ab2d3e729161f75f63a20e4ceeec1c62548.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-c00773d7499896d96fb641a8bb84d0d61a5a3afb.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-dfeaee099085fbc42f527c209206db10fe4bacdf.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-ca99274f312fdcaa49d1aed01ecae2f86dab9394.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-0291fc84e8d8962a7615dac8940f790ee09e2ee5.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-88701a07da4d309a446904d3c650369c3973d598.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-ba4f3a9222662812a45bfe3ca139718298022079.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-6a519ede44f62cec6de939a48949eaf996d84ab2.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-3c9529cf1d06218616e30882898f7c50bc398691.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-8781a2bc7b9d99aab58af1dafb7a08535c4aa291.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-1f1006b17e0af4bfbf45db5612ed4c98069306a5.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-d879742cbcf33d43721b9089c666e9901a2b1fcf.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-5c8fbbc4066f737d3f4118d8a5b7be757c8adf62.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-0ea125c1b92f63483694e336447edad2feb5ab94.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-e62c6d22a7e94b5c38f06e36ad2f5c73130908c7.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-64e26d7721a649fa4b04002f2ae5edb075be286f.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-c1d1122832b9fc1a790bbbb09f5675564f16256f.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-bd17158dbfb63be89ea897182e29af2deadc59eb.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-17e72d8a9c8ad9db41e53c355be673074a9a6ef0.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-b86b78b5a7b9c9c2a900da5f47c472a06d6bd6a8.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-61423b1a335d26e40f26bf8ce9f4c6c5ec904e9c.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-111969a60600e1a936fcbdd9e3b7ffb6e91d49f6.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-391662edb5b5db11907ed2e5c97d71929a252ac6.jar" />
+    </item>
+    <item
+        jar="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/izawayoshitaka/AndroidStudioProjects/GoogleMaps/app/build/intermediates/pre-dexed/debug/classes-82c7d948a591ccb863cc0634b01caa20b5493edf.jar" />
+    </item>
+
+</items>
